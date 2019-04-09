@@ -7,9 +7,9 @@ The goal of the Bank Balance and Dispensing System is to calculate and display t
 # Running The Application
 - Clone the project to your local instance
 - Build the project using the command below:
-- mvn clean install
+	1. mvn clean install
 - Run the application using the command below:
-- mvn spring-boot:run 
+	1. mvn spring-boot:run 
 - Application should be accessible on port 8080 provided the port is not already in use:
 - Application makes use of the inbuilt H2 database
 - To login to the H2 Database use the credentials below:

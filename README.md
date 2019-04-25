@@ -19,9 +19,6 @@ The goal of the Bank Balance and Dispensing System is to calculate and display t
 2.	username: sa
 3.	password: 
 4.	JDBC url: jdbc:h2:mem:testdb
-
-- To login to the application visit the url below:
-1.	http://localhost:8080/home
 	
 Module Links :
 1.	Home : http://localhost:8080/home
